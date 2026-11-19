@@ -1,0 +1,27 @@
+form{
+    width:500px;
+    margin:auto;
+    background:black;
+    padding:30px;
+    color:white;
+}
+
+input,
+textarea{
+    width:100%;
+    padding:10px;
+}
+
+button{
+    background:white;
+    color:black;
+    padding:12px 20px;
+    font-weight:bold;
+    cursor:pointer;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
